@@ -1,0 +1,2 @@
+package com.ms.email.repository;public interface EmailRepository {
+}
